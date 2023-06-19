@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background: linear-gradient(lightblue, darkblue, midnightblue)
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
